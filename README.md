@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning to be a full-stack developer on Codecademy. This progamming stuff is a lot of fun!
+
 <!--
 **scottrdee/scottrdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
